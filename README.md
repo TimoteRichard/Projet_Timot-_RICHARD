@@ -5,7 +5,7 @@ Institution: Université de Franche-Comté Program: M1-M2 INASYS Department: UFR
 Subject: Introduction to Python Programming
 
 My solutions:
-- [Exercice 1](Projet/Exercice 1)
+- [Exercice 1](https://github.com/TimoteRichard/Projet_Timote_RICHARD/tree/main/Projet/Exercice%201))
 - [Exercice 2](Projet/Exercice 2)
 - [Exercice 3](Projet/Exercice 3)
 - [Exercice 4](Projet/Exercice 4)
