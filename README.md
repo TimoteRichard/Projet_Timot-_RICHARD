@@ -7,5 +7,5 @@ Subject: Introduction to Python Programming
 My solutions:
 - [Exercice 1](Projet/Exercice 1)
 - [Exercice 2](Projet/Exercice 2)
-- [Exercice 3](Projet/Exercice 1)
-- [Exercice 4](Projet/Exercice 1)
+- [Exercice 3](Projet/Exercice 3)
+- [Exercice 4](Projet/Exercice 4)
