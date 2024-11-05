@@ -9,3 +9,5 @@ My solutions:
 - [Exercice 2](https://github.com/TimoteRichard/Projet_Timote_RICHARD/tree/main/Projet/Exercice%202)
 - [Exercice 3](https://github.com/TimoteRichard/Projet_Timote_RICHARD/tree/main/Projet/Exercice%203)
 - [Exercice 4](https://github.com/TimoteRichard/Projet_Timote_RICHARD/tree/main/Projet/Exercice%204)
+
+My file with the 4 solutions : [Solutions_Project](https://github.com/TimoteRichard/Projet_Timote_RICHARD/blob/main/Projet/Copie%20de%20Projet%20Timot%C3%A9%20RICHARD.ipynb)
